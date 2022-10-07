@@ -26,10 +26,9 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(  
       appBar: AppBar(  
         title: Text(this.title),  
+        
       ),  
-      body: Center(  
-        child: Text('Hello World'),  
-      ),  
-    );  
+       
+  
   }  
 }  
